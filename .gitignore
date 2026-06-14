@@ -1,0 +1,28 @@
+target/
+lib/
+logs/
+*.log
+*.class
+.idea/
+# .vscode workspace settings
+.vscode/
+*.iml
+.DS_Store
+
+# H2 database files created at runtime
+database/librarydb*
+database/*.mv.db
+database/*.trace.db
+
+# OS files
+Thumbs.db
+ehthumbs.db
+target/
+*.log
+*.class
+*.jar
+.idea/
+.vscode/
+.DS_Store
+database/*.sql
+*.iml
